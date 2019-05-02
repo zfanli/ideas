@@ -10,5 +10,6 @@
     <li>Python or other 绘制图片直方图</li>
     <li>JavaScript 绘制图片直方图（配合后台 or not）</li>
     <li>Graph of Capabilities 能力雷达图（SVG，JS 控制）</li>
+    <li>Make a tool for configure SS by one click (a repo for store files and bash or batch command?)</li>
   </ul>
 </details>
