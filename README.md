@@ -51,6 +51,8 @@
 </p>
 </details>
 
+> 2019/6/8 这应该首先会是一个 iOS 的应用，学习 Swift 的动力更多了。加速读完 Swift 的文档吧。
+
 ## temp
 
 <details>
